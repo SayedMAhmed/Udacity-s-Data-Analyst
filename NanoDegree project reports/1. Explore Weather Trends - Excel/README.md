@@ -1,6 +1,8 @@
 # Explore Weather Trends
 
-This report explains the steps of acquiring the data from a database, and then using Google Sheets to perfrom calculations.
+This report is a summary of the weather trends data analysis. It explains the process of acquiring and analyzing the data.
+
+We start by collecting the data from a database with SQL, and then using Google Sheets to perfrom specific calculations.
 
 These calculations include 7-year moving average for every data point. 
 A moving average is used here to smooth out short-term fluctuations and highlight longer-term trends.
